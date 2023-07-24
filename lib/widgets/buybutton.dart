@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:afart_creations/models/models.dart';
-import 'package:afart_creations/Responsiveness/dimensions.dart';
+import 'package:afart_creations/responsiveness/dimensions.dart';
 
 class BuyButton extends StatelessWidget {
   final Song song;

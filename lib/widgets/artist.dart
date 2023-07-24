@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:afart_creations/models/models.dart';
-import '../Responsiveness/dimensions.dart';
+import '../responsiveness/dimensions.dart';
 
 
 class Artist extends StatelessWidget {

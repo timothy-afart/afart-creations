@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../Responsiveness/dimensions.dart';
+import '../responsiveness/dimensions.dart';
 
 class DepositeButton extends StatelessWidget {
   final VoidCallback onPress;

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:afart_creations/models/models.dart';
 import 'package:afart_creations/widgets/widgets.dart';
 
-import '../Responsiveness/dimensions.dart';
+import '../responsiveness/dimensions.dart';
 
 class PopularCard extends StatelessWidget {
   final Song song;

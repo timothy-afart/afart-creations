@@ -1,4 +1,4 @@
-import 'package:afart_creations/Responsiveness/dimensions.dart';
+import 'package:afart_creations/responsiveness/dimensions.dart';
 import 'package:flutter/material.dart';
 
 class CategoryButton extends StatelessWidget {

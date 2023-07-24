@@ -2,7 +2,7 @@ import 'package:afart_creations/widgets/widgets.dart';
 import 'package:afart_creations/models/models.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import '../Responsiveness/dimensions.dart';
+import '../responsiveness/dimensions.dart';
 
 class StoreScreen extends StatelessWidget {
   const StoreScreen({Key? key}) : super(key : key);
